@@ -1,0 +1,438 @@
+[
+  {
+    "block": "101",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Marandu"
+  },
+  {
+    "block": "102",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Xaraés"
+  },
+  {
+    "block": "103",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Piatã"
+  },
+  {
+    "block": "104",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Paiaguás"
+  },
+  {
+    "block": "105",
+    "gender": "Brachiaria",
+    "species": "spp.",
+    "cultivar": "BRS Ipyporã"
+  },
+  {
+    "block": "106",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Humidicola comum"
+  },
+  {
+    "block": "107",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Llanero"
+  },
+  {
+    "block": "108",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "BRS Tupi"
+  },
+  {
+    "block": "109",
+    "gender": "Brachiaria",
+    "species": "ruziziensis",
+    "cultivar": "Ruziziensis"
+  },
+  {
+    "block": "110",
+    "gender": "Brachiaria",
+    "species": "decumbens",
+    "cultivar": "Basilisk"
+  },
+  {
+    "block": "111",
+    "gender": "x1",
+    "species": "y1",
+    "cultivar": "Mulato II"
+  },
+  {
+    "block": "112",
+    "gender": "x2",
+    "species": "y2",
+    "cultivar": "Mavuno"
+  },
+  {
+    "block": "113",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Mombaça"
+  },
+  {
+    "block": "114",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Tanzânia"
+  },
+  {
+    "block": "115",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Massai"
+  },
+  {
+    "block": "116",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Zuri"
+  },
+  {
+    "block": "117",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Tamani"
+  },
+  {
+    "block": "118",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Quênia"
+  },
+  {
+    "block": "201",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Piatã"
+  },
+  {
+    "block": "202",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Llanero"
+  },
+  {
+    "block": "203",
+    "gender": "Brachiaria",
+    "species": "ruziziensis",
+    "cultivar": "Ruziziensis"
+  },
+  {
+    "block": "204",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Humidicola comum"
+  },
+  {
+    "block": "205",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Xaraés"
+  },
+  {
+    "block": "206",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Marandu"
+  },
+  {
+    "block": "207",
+    "gender": "Brachiaria",
+    "species": "decumbens",
+    "cultivar": "Basilisk"
+  },
+  {
+    "block": "208",
+    "gender": "Brachiaria",
+    "species": "spp.",
+    "cultivar": "BRS Ipyporã"
+  },
+  {
+    "block": "209",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "BRS Tupi"
+  },
+  {
+    "block": "210",
+    "gender": "x2",
+    "species": "y2",
+    "cultivar": "Mavuno"
+  },
+  {
+    "block": "211",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Paiaguás"
+  },
+  {
+    "block": "212",
+    "gender": "x1",
+    "species": "y1",
+    "cultivar": "Mulato II"
+  },
+  {
+    "block": "213",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Massai"
+  },
+  {
+    "block": "214",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Zuri"
+  },
+  {
+    "block": "215",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Mombaça"
+  },
+  {
+    "block": "216",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Tanzânia"
+  },
+  {
+    "block": "217",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Quênia"
+  },
+  {
+    "block": "218",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Tamani"
+  },
+
+  {
+    "block": "301",
+    "gender": "x1",
+    "species": "y1",
+    "cultivar": "Mulato II"
+  },
+  {
+    "block": "302",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "BRS Tupi"
+  },
+  {
+    "block": "303",
+    "gender": "Brachiaria",
+    "species": "ruziziensis",
+    "cultivar": "Ruziziensis"
+  },
+  {
+    "block": "304",
+    "gender": "Brachiaria",
+    "species": "spp.",
+    "cultivar": "BRS Ipyporã"
+  },
+  {
+    "block": "305",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Llanero"
+  },
+  {
+    "block": "306",
+    "gender": "x2",
+    "species": "y2",
+    "cultivar": "Mavuno"
+  },
+  {
+    "block": "307",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Humidicola comum"
+  },
+  {
+    "block": "308",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Marandu"
+  },
+  {
+    "block": "309",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Piatã"
+  },
+  {
+    "block": "310",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Xaraés"
+  },
+  {
+    "block": "311",
+    "gender": "Brachiaria",
+    "species": "decumbens",
+    "cultivar": "Basilisk"
+  },
+
+  {
+    "block": "312",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Paiaguás"
+  },
+  {
+    "block": "313",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Tamani"
+  },
+  {
+    "block": "314",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Mombaça"
+  },
+  {
+    "block": "315",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Massai"
+  },
+  {
+    "block": "316",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Quênia"
+  },
+  {
+    "block": "317",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Zuri"
+  },
+  {
+    "block": "318",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Tanzânia"
+  },
+  {
+    "block": "401",
+    "gender": "Brachiaria",
+    "species": "ruziziensis",
+    "cultivar": "Ruziziensis"
+  },
+  {
+    "block": "402",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Marandu"
+  },
+  {
+    "block": "403",
+    "gender": "Brachiaria",
+    "species": "decumbens",
+    "cultivar": "Basilisk"
+  },
+  {
+    "block": "404",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "BRS Tupi"
+  },
+  {
+    "block": "405",
+    "gender": "Brachiaria",
+    "species": "spp.",
+    "cultivar": "BRS Ipyporã"
+  },
+  {
+    "block": "406",
+    "gender": "x2",
+    "species": "y2",
+    "cultivar": "Mavuno"
+  },
+  {
+    "block": "407",
+    "gender": "x1",
+    "species": "y1",
+    "cultivar": "Mulato II"
+  },
+  {
+    "block": "408",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Humidicola comum"
+  },
+  {
+    "block": "409",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Piatã"
+  },
+  {
+    "block": "410",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "Xaraés"
+  },
+
+  {
+    "block": "411",
+    "gender": "Brachiaria",
+    "species": "brizantha",
+    "cultivar": "BRS Paiaguás"
+  },
+
+  {
+    "block": "412",
+    "gender": "Brachiaria",
+    "species": "humidicola",
+    "cultivar": "Llanero"
+  },
+  {
+    "block": "413",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Massai"
+  },
+  {
+    "block": "414",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Zuri"
+  },
+  {
+    "block": "415",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Tanzânia"
+  },
+  {
+    "block": "416",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Tamani"
+  },
+  {
+    "block": "417",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "BRS Quênia"
+  },
+  {
+    "block": "418",
+    "gender": "Panicum",
+    "species": "maximum",
+    "cultivar": "Mombaça"
+  }
+]
